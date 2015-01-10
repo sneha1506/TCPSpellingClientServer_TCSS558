@@ -15,7 +15,7 @@ package TCPSpelling;
  * WordDistance calculates the distance between two words,
  * using a very simple recursive algorithm. 
  *
- * @author Daniel M. Zimmerman
+ * @author My Professor
  * @version Spring 2011
  */
 
