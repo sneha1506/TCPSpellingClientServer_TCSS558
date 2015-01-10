@@ -17,7 +17,7 @@ import TCPSpelling.WordList;
  * to the server indicating that the word is present. If the word is not found then the server searches 
  * for the closest words and returns them and if it can't find any close word then the server will
  * return a message saying that the word is not found and also there are no closest matches  */
-
+/* author Sneha Gunda */
 public class TCPSpellingServer {
 	public static void main(String args[]) throws Exception {
 
