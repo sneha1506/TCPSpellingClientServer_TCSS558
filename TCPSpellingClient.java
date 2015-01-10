@@ -8,7 +8,7 @@ import java.net.Socket;
 /* The class TCPSpellingClient takes input from the user such as server IP address or host name,
  *  port number and a word that has to be searched in the WordList database present at the 
  *  server.*/
-
+/* author Sneha Gunda */
 public class TCPSpellingClient {
 	public static void main(String args[]) throws Exception {
 
