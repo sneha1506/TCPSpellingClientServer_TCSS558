@@ -4,7 +4,7 @@ package TCPSpelling;
 /*
  * Spring 2013 TCSS 558 - Applied Distributed Computing
  * Institute of Technology, UW Tacoma
- * Written by Daniel M. Zimmerman
+ * Code given by my Professor
  */
 
 import java.io.BufferedReader;
